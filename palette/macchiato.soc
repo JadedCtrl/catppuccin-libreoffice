@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office"
+                    xmlns:style="http://openoffice.org/2000/style"
+                    xmlns:text="http://openoffice.org/2000/text"
+                    xmlns:table="http://openoffice.org/2000/table"
+                    xmlns:draw="http://openoffice.org/2000/drawing"
+                    xmlns:fo="http://www.w3.org/1999/XSL/Format"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xmlns:meta="http://openoffice.org/2000/meta"
+                    xmlns:number="http://openoffice.org/2000/datastyle"
+                    xmlns:svg="http://www.w3.org/2000/svg"
+                    xmlns:chart="http://openoffice.org/2000/chart"
+                    xmlns:dr3d="http://openoffice.org/2000/dr3d"
+                    xmlns:math="http://www.w3.org/1998/Math/MathML"
+                    xmlns:form="http://openoffice.org/2000/form"
+                    xmlns:script="http://openoffice.org/2000/script">
+	<draw:color draw:name="Rosewater" draw:color="#f4dbd6"/>
+	<draw:color draw:name="Flamingo" draw:color="#f0c6c6"/>
+	<draw:color draw:name="Pink" draw:color="#f5bde6"/>
+	<draw:color draw:name="Mauve" draw:color="#c6a0f6"/>
+	<draw:color draw:name="Red" draw:color="#ed8796"/>
+	<draw:color draw:name="Maroon" draw:color="#ee99a0"/>
+	<draw:color draw:name="Peach" draw:color="#f5a97f"/>
+	<draw:color draw:name="Yellow" draw:color="#eed49f"/>
+	<draw:color draw:name="Green" draw:color="#a6da95"/>
+	<draw:color draw:name="Teal" draw:color="#8bd5ca"/>
+	<draw:color draw:name="Sky" draw:color="#91d7e3"/>
+	<draw:color draw:name="Sapphire" draw:color="#7dc4e4"/>
+	<draw:color draw:name="Blue" draw:color="#8aadf4"/>
+	<draw:color draw:name="Lavender" draw:color="#b7bdf8"/>
+	<draw:color draw:name="Text" draw:color="#cad3f5"/>
+	<draw:color draw:name="Subtext 1" draw:color="#b8c0e0"/>
+	<draw:color draw:name="Subtext 0" draw:color="#a5adcb"/>
+	<draw:color draw:name="Overlay 2" draw:color="#939ab7"/>
+	<draw:color draw:name="Overlay 1" draw:color="#8087a2"/>
+	<draw:color draw:name="Overlay 0" draw:color="#6e738d"/>
+	<draw:color draw:name="Surface 2" draw:color="#5b6078"/>
+	<draw:color draw:name="Surface 1" draw:color="#494d64"/>
+	<draw:color draw:name="Surface 0" draw:color="#363a4f"/>
+	<draw:color draw:name="Base" draw:color="#24273a"/>
+	<draw:color draw:name="Mantle" draw:color="#1e2030"/>
+	<draw:color draw:name="Crust" draw:color="#181926"/>
+</office:color-table>

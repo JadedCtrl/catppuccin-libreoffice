@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="650" height="500"
+     viewBox="0 0 650 500"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<rect x="50" y="0" width="100" height="100" fill="#f4dbd6" />
+	<text x="100" y="50"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Rosewater
+	</text>
+
+	<rect x="150" y="0" width="100" height="100" fill="#f0c6c6" />
+	<text x="200" y="50"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Flamingo
+	</text>
+
+	<rect x="250" y="0" width="100" height="100" fill="#f5bde6" />
+	<text x="300" y="50"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Pink
+	</text>
+
+	<rect x="350" y="0" width="100" height="100" fill="#c6a0f6" />
+	<text x="400" y="50"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Mauve
+	</text>
+
+	<rect x="450" y="0" width="100" height="100" fill="#ed8796" />
+	<text x="500" y="50"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Red
+	</text>
+
+	<rect x="50" y="100" width="100" height="100" fill="#ee99a0" />
+	<text x="100" y="150"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Maroon
+	</text>
+
+	<rect x="150" y="100" width="100" height="100" fill="#f5a97f" />
+	<text x="200" y="150"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Peach
+	</text>
+
+	<rect x="250" y="100" width="100" height="100" fill="#eed49f" />
+	<text x="300" y="150"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Yellow
+	</text>
+
+	<rect x="350" y="100" width="100" height="100" fill="#a6da95" />
+	<text x="400" y="150"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Green
+	</text>
+
+	<rect x="450" y="100" width="100" height="100" fill="#8bd5ca" />
+	<text x="500" y="150"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Teal
+	</text>
+
+	<rect x="0" y="200" width="100" height="100" fill="#91d7e3" />
+	<text x="50" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Sky
+	</text>
+
+	<rect x="100" y="200" width="100" height="100" fill="#7dc4e4" />
+	<text x="150" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Sapphire
+	</text>
+
+	<rect x="200" y="200" width="100" height="100" fill="#8aadf4" />
+	<text x="250" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Blue
+	</text>
+
+	<rect x="300" y="200" width="100" height="100" fill="#b7bdf8" />
+	<text x="350" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Lavender
+	</text>
+
+	<rect x="400" y="200" width="100" height="100" fill="#cad3f5" />
+	<text x="450" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Text
+	</text>
+
+	<rect x="500" y="200" width="100" height="100" fill="#b8c0e0" />
+	<text x="550" y="250"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Subtext 1
+	</text>
+
+	<rect x="50" y="300" width="100" height="100" fill="#a5adcb" />
+	<text x="100" y="350"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Subtext 0
+	</text>
+
+	<rect x="150" y="300" width="100" height="100" fill="#939ab7" />
+	<text x="200" y="350"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Overlay 2
+	</text>
+
+	<rect x="250" y="300" width="100" height="100" fill="#8087a2" />
+	<text x="300" y="350"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Overlay 1
+	</text>
+
+	<rect x="350" y="300" width="100" height="100" fill="#6e738d" />
+	<text x="400" y="350"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Overlay 0
+	</text>
+
+	<rect x="450" y="300" width="100" height="100" fill="#5b6078" />
+	<text x="500" y="350"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Surface 2
+	</text>
+
+	<rect x="50" y="400" width="100" height="100" fill="#494d64" />
+	<text x="100" y="450"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Surface 1
+	</text>
+
+	<rect x="150" y="400" width="100" height="100" fill="#363a4f" />
+	<text x="200" y="450"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Surface 0
+	</text>
+
+	<rect x="250" y="400" width="100" height="100" fill="#24273a" />
+	<text x="300" y="450"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Base
+	</text>
+
+	<rect x="350" y="400" width="100" height="100" fill="#1e2030" />
+	<text x="400" y="450"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Mantle
+	</text>
+
+	<rect x="450" y="400" width="100" height="100" fill="#181926" />
+	<text x="500" y="450"
+	      dominant-baseline="middle" text-anchor="middle"
+	      font-size="19" font-family="sans" font-weight="bold"
+	      fill="white" stroke="black" stroke-width="1">
+		Crust
+	</text>
+</svg>
